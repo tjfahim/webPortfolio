@@ -1,0 +1,27 @@
+body{
+    font-family: 'Lato', sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+.heading{
+    font-size: 50px;
+
+}
+.orange-color{
+    color: orange;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin: 5%;
+}
+img{
+    width: 100%;
+}
+.button{
+    background-color: chartreuse;
+    font-weight: 700;
+    padding: 5px 12px;
+    text-decoration: none;
+    
+}
