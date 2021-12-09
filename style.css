@@ -61,3 +61,7 @@ section{
     border-image: linear-gradient(rgb(85, 85, 204),rgb(184, 106, 184)) ;
     border-image-slice: 1;
 }
+
+footer p{
+    text-align: center;
+}
